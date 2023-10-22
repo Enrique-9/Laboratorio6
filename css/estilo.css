@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    ;
+}
+
+body {
+    background: #1d1d1d;
+
+}
+
+.contenedor {
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px 20px 20px;
+    border-radius: 9px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+
+.conc {
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px 20px 20px;
+    border-radius: 9px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
